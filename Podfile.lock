@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.6.2)
+  - CarbonKit (2.3.1)
+  - DropDown (2.3.13)
+  - FSPagerView (0.8.3)
+  - OTPFieldView (1.0.1)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - CarbonKit
+  - DropDown
+  - FSPagerView
+  - OTPFieldView
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CarbonKit
+    - DropDown
+    - FSPagerView
+    - OTPFieldView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+
+PODFILE CHECKSUM: 40ebfc473aaa1e9b7f5756639766adc9293d5e98
+
+COCOAPODS: 1.11.3
